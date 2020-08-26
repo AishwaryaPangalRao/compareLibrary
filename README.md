@@ -18,6 +18,13 @@ Handled the Exception case for
 2.One file has more lines than the Other
 
 
+
+MultiThreading
+
+Assuming that the given system has 2-CPU-Cores, the program spawns 2 threads and does the processing.
+This can be updated based on the system's configuration.
+
+
 Running the Tests
 
 runComparator.xml is the file to run this test-suite. 
