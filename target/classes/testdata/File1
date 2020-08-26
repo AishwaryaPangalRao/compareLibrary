@@ -1,10 +1,6 @@
-https://reqres.in/api/users/1
+https://reqres.in/api/users?page=1
 
 https://reqres.in/api/users/3
-https://reqres.in/api/users/4
+https://reqres.in/api/users?page=3
 https://reqres.in/api/users/5
 https://reqres.in/api/users/6
-https://paytmmall.com/socom
-https://paytm.com/flights
-http://worldtimeapi.org/api/timezone/Asia
-http://worldtimeapi.org/api/timezone/Asia
