@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Comparator Test-Suite" verbose="3" parallel="none">
+
+     <test name="API Comparator">
+    <classes>
+    <class name="comparator.comapreLibrary.tests.ApiComparatorFlow"/>
+    </classes>
+    </test>
+
+</suite> <!-- Suite -->
