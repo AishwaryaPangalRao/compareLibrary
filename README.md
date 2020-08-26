@@ -9,6 +9,8 @@ and so on...
 
 
 
+
+
 TestData
 
 File1 and File2 placed in compareLibrary/src/test/resources/testdata folder.
@@ -19,16 +21,22 @@ Handled the Exception case for
 
 
 
+
+
 MultiThreading
 
 Assuming that the given system has 2-CPU-Cores, the program spawns 2 threads and does the processing.
 This can be updated based on the system's configuration.
 
 
+
+
 Running the Tests
 
 runComparator.xml is the file to run this test-suite. 
 This is placed in compareLibrary/src/test/resources/test-suite.
+
+
 
 
 
